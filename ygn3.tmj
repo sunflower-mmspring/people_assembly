@@ -1398,7 +1398,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":".\/audio\/thwaythitsar.mp4"
+                         "value":"https:\/\/s3.ap-northeast-2.amazonaws.com\/vpa.spring.mm\/thwaythitsar.mp4"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -1555,7 +1555,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":".\/audio\/ahlomashi.mp4"
+                         "value":"https:\/\/s3.ap-northeast-2.amazonaws.com\/vpa.spring.mm\/ahlomashi.mp4"
                         }],
                  "type":"tilelayer",
                  "visible":true,
