@@ -294,7 +294,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/mm-spring\/virtual-people's-assembly\/vpa-yangon"
+                 "value":"https:\/\/play.workadventu.re\/@\/mm-spring\/virtual-people's-assembly\/vpa-yangon#sule"
                 }],
          "type":"tilelayer",
          "visible":true,
