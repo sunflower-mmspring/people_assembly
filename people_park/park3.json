@@ -9018,7 +9018,7 @@
         {
          "columns":8,
          "firstgid":31246,
-         "image":"..\/..\/great-place-to-work\/src\/assets\/fantasy_1.png",
+         "image":"src\/assets\/fantasy_1.png",
          "imageheight":2112,
          "imagewidth":256,
          "margin":0,
@@ -9031,7 +9031,7 @@
         {
          "columns":3,
          "firstgid":31774,
-         "image":"..\/sule\/tilesets\/exit.png",
+         "image":"src\/assets\/exit.png",
          "imageheight":128,
          "imagewidth":107,
          "margin":0,
