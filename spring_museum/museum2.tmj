@@ -570,9 +570,19 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"jitsiConfig",
+                 "type":"string",
+                 "value":"{ \"startWithAudioMuted\": true, \"startWithVideoMuted\": true }"
+                }, 
+                {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"meeting-AAPP"
+                }, 
+                {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"speaker"
                 }],
          "type":"tilelayer",
          "visible":true,
